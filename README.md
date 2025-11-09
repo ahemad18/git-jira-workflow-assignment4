@@ -1,5 +1,3 @@
-# git-jira-workflow-assignment4
-
 # Git & Jira Workflow – Assignment 4
 
 This repository demonstrates the integration of **GitHub** and **Jira** as part of Assignment #4 for the *Git and Jira Workflow* project.
